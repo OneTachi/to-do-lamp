@@ -1,0 +1,8 @@
+AND THEN DONE WHOOOOOOOOO
+
+Okay so for latttttter:
+- prettyify~!
+- get status codes from api endpoints
+- make it so tasks.php doesn't refresh everytime, gets stuff from api endpoint
+- prevent sql injection
+- salt/pepper
